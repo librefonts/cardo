@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Cardo-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Cardo-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Cardo-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Cardo-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Cardo-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Cardo-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="Cardo-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="Cardo-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="Cardo-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Cardo-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="Cardo-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Cardo-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Cardo-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Cardo-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Cardo-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Cardo-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Cardo-Regular.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Cardo-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>

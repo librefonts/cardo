@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=4 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="7"/>
+            <FeatureIndex index="1" value="8"/>
+            <FeatureIndex index="2" value="9"/>
+            <FeatureIndex index="3" value="13"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="hebr"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="3"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="ital"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="12"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=24 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="2"/>
+            <FeatureIndex index="2" value="4"/>
+            <FeatureIndex index="3" value="5"/>
+            <FeatureIndex index="4" value="6"/>
+            <FeatureIndex index="5" value="7"/>
+            <FeatureIndex index="6" value="8"/>
+            <FeatureIndex index="7" value="10"/>
+            <FeatureIndex index="8" value="11"/>
+            <FeatureIndex index="9" value="14"/>
+            <FeatureIndex index="10" value="15"/>
+            <FeatureIndex index="11" value="16"/>
+            <FeatureIndex index="12" value="17"/>
+            <FeatureIndex index="13" value="18"/>
+            <FeatureIndex index="14" value="19"/>
+            <FeatureIndex index="15" value="20"/>
+            <FeatureIndex index="16" value="21"/>
+            <FeatureIndex index="17" value="22"/>
+            <FeatureIndex index="18" value="23"/>
+            <FeatureIndex index="19" value="24"/>
+            <FeatureIndex index="20" value="25"/>
+            <FeatureIndex index="21" value="26"/>
+            <FeatureIndex index="22" value="27"/>
+            <FeatureIndex index="23" value="28"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=29 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="1"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="37"/>
+          <LookupListIndex index="1" value="38"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="dlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="36"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="hist"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="hlig"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="5"/>
+          <LookupListIndex index="1" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="onum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="25"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="pnum"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="26"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=5 -->
+          <LookupListIndex index="0" value="29"/>
+          <LookupListIndex index="1" value="30"/>
+          <LookupListIndex index="2" value="31"/>
+          <LookupListIndex index="3" value="32"/>
+          <LookupListIndex index="4" value="33"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="salt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="24"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="smcp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="35"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="ss01"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="34"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="ss03"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="ss04"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="ss05"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="ss06"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="ss07"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="ss08"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="16"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="ss09"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="22">
+        <FeatureTag value="ss10"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="23">
+        <FeatureTag value="ss11"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="24">
+        <FeatureTag value="ss12"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="25">
+        <FeatureTag value="ss13"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="21"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="26">
+        <FeatureTag value="ss15"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="23"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
+        <FeatureTag value="subs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="28"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="28">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="27"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=40 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="T">
+            <Ligature components="h" glyph="T_h"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="t" glyph="c_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="t" glyph="s_t"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="i"/>
+            <Glyph value="j"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="gravecomb"/>
+            <Glyph value="acutecomb"/>
+            <Glyph value="uni0302"/>
+            <Glyph value="tildecomb"/>
+            <Glyph value="uni0304"/>
+            <Glyph value="uni0306"/>
+            <Glyph value="uni0307"/>
+            <Glyph value="uni0308"/>
+            <Glyph value="hookabovecomb"/>
+            <Glyph value="uni030A"/>
+            <Glyph value="uni030B"/>
+            <Glyph value="uni030C"/>
+            <Glyph value="uni030D"/>
+            <Glyph value="uni030E"/>
+            <Glyph value="uni030F"/>
+            <Glyph value="uni0311"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="39"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="f,l" glyph="f_f_l"/>
+            <Ligature components="f,i" glyph="f_f_i"/>
+            <Ligature components="j" glyph="f_j"/>
+            <Ligature components="l" glyph="fl"/>
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="f" glyph="f_f"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="A.sc"/>
+          <Substitution in="aacute" out="Aacute.sc"/>
+          <Substitution in="acircumflex" out="Acircumflex.sc"/>
+          <Substitution in="adieresis" out="Adieresis.sc"/>
+          <Substitution in="ae" out="AE.sc"/>
+          <Substitution in="agrave" out="Agrave.sc"/>
+          <Substitution in="amacron" out="Amacron.sc"/>
+          <Substitution in="ampersand" out="ampersand.sc"/>
+          <Substitution in="aring" out="Aring.sc"/>
+          <Substitution in="atilde" out="Atilde.sc"/>
+          <Substitution in="b" out="B.sc"/>
+          <Substitution in="c" out="C.sc"/>
+          <Substitution in="ccedilla" out="Ccedilla.sc"/>
+          <Substitution in="d" out="D.sc"/>
+          <Substitution in="e" out="E.sc"/>
+          <Substitution in="eacute" out="Eacute.sc"/>
+          <Substitution in="ecircumflex" out="Ecircumflex.sc"/>
+          <Substitution in="edieresis" out="Edieresis.sc"/>
+          <Substitution in="egrave" out="Egrave.sc"/>
+          <Substitution in="emacron" out="Emacron.sc"/>
+          <Substitution in="eth" out="Eth.sc"/>
+          <Substitution in="exclam" out="exclam.sc"/>
+          <Substitution in="exclamdown" out="exclamdown.sc"/>
+          <Substitution in="f" out="F.sc"/>
+          <Substitution in="g" out="G.sc"/>
+          <Substitution in="germandbls" out="Germandbls.sc"/>
+          <Substitution in="h" out="H.sc"/>
+          <Substitution in="i" out="I.sc"/>
+          <Substitution in="iacute" out="Iacute.sc"/>
+          <Substitution in="icircumflex" out="Icircumflex.sc"/>
+          <Substitution in="idieresis" out="Idieresis.sc"/>
+          <Substitution in="igrave" out="Igrave.sc"/>
+          <Substitution in="imacron" out="Imacron.sc"/>
+          <Substitution in="j" out="J.sc"/>
+          <Substitution in="k" out="K.sc"/>
+          <Substitution in="l" out="L.sc"/>
+          <Substitution in="lslash" out="Lslash.sc"/>
+          <Substitution in="m" out="M.sc"/>
+          <Substitution in="n" out="N.sc"/>
+          <Substitution in="ntilde" out="Ntilde.sc"/>
+          <Substitution in="o" out="O.sc"/>
+          <Substitution in="oacute" out="Oacute.sc"/>
+          <Substitution in="ocircumflex" out="Ocircumflex.sc"/>
+          <Substitution in="odieresis" out="Odieresis.sc"/>
+          <Substitution in="oe" out="OE.sc"/>
+          <Substitution in="ograve" out="Ograve.sc"/>
+          <Substitution in="omacron" out="Omacron.sc"/>
+          <Substitution in="oslash" out="Oslash.sc"/>
+          <Substitution in="otilde" out="Otilde.sc"/>
+          <Substitution in="p" out="P.sc"/>
+          <Substitution in="q" out="Q.sc"/>
+          <Substitution in="question" out="question.sc"/>
+          <Substitution in="questiondown" out="questiondown.sc"/>
+          <Substitution in="r" out="R.sc"/>
+          <Substitution in="s" out="S.sc"/>
+          <Substitution in="scaron" out="Scaron.sc"/>
+          <Substitution in="t" out="T.sc"/>
+          <Substitution in="thorn" out="Thorn.sc"/>
+          <Substitution in="u" out="U.sc"/>
+          <Substitution in="uacute" out="Uacute.sc"/>
+          <Substitution in="ucircumflex" out="Ucircumflex.sc"/>
+          <Substitution in="udieresis" out="Udieresis.sc"/>
+          <Substitution in="ugrave" out="Ugrave.sc"/>
+          <Substitution in="umacron" out="Umacron.sc"/>
+          <Substitution in="uni01BF" out="uni01F7.sc"/>
+          <Substitution in="uni021D" out="uni021C.sc"/>
+          <Substitution in="uni0233" out="uni0232.sc"/>
+          <Substitution in="uni0292" out="uni01B7.sc"/>
+          <Substitution in="v" out="V.sc"/>
+          <Substitution in="w" out="W.sc"/>
+          <Substitution in="x" out="X.sc"/>
+          <Substitution in="y" out="Y.sc"/>
+          <Substitution in="yacute" out="Yacute.sc"/>
+          <Substitution in="ydieresis" out="Ydieresis.sc"/>
+          <Substitution in="z" out="Z.sc"/>
+          <Substitution in="zcaron" out="Zcaron.sc"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="s" out="longs"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="longs">
+            <Ligature components="longs,l" glyph="longs_longs_l"/>
+            <Ligature components="longs,i" glyph="longs_longs_i"/>
+            <Ligature components="h" glyph="longs_h"/>
+            <Ligature components="t" glyph="longs_t"/>
+            <Ligature components="l" glyph="longs_l"/>
+            <Ligature components="longs" glyph="longs_longs"/>
+            <Ligature components="i" glyph="longs_i"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="N">
+            <Ligature components="T" glyph="N_T"/>
+          </LigatureSet>
+          <LigatureSet glyph="V">
+            <Ligature components="I" glyph="V_I"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni2180" out="uni2180.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2181" out="uni2181.02"/>
+          <Substitution in="uni2182" out="uni2182.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2187" out="uni2187.02"/>
+          <Substitution in="uni2188" out="uni2188.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.02"/>
+          <Substitution in="uni2181" out="uni2181.02"/>
+          <Substitution in="uni2182" out="uni2182.02"/>
+          <Substitution in="uni2187" out="uni2187.02"/>
+          <Substitution in="uni2188" out="uni2188.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.03"/>
+          <Substitution in="uni2181" out="uni2181.03"/>
+          <Substitution in="uni2182" out="uni2182.03"/>
+          <Substitution in="uni2187" out="uni2187.03"/>
+          <Substitution in="uni2188" out="uni2188.03"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.04"/>
+          <Substitution in="uni2181" out="uni2181.04"/>
+          <Substitution in="uni2182" out="uni2182.04"/>
+          <Substitution in="uni2187" out="uni2187.04"/>
+          <Substitution in="uni2188" out="uni2188.04"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.05"/>
+          <Substitution in="uni2181" out="uni2181.05"/>
+          <Substitution in="uni2182" out="uni2182.05"/>
+          <Substitution in="uni2187" out="uni2187.05"/>
+          <Substitution in="uni2188" out="uni2188.05"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.06"/>
+          <Substitution in="uni2181" out="uni2181.06"/>
+          <Substitution in="uni2182" out="uni2182.06"/>
+          <Substitution in="uni2187" out="uni2187.06"/>
+          <Substitution in="uni2188" out="uni2188.06"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.07"/>
+          <Substitution in="uni2181" out="uni2181.07"/>
+          <Substitution in="uni2182" out="uni2182.07"/>
+          <Substitution in="uni2187" out="uni2187.07"/>
+          <Substitution in="uni2188" out="uni2188.07"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.08"/>
+          <Substitution in="uni2181" out="uni2181.08"/>
+          <Substitution in="uni2182" out="uni2182.08"/>
+          <Substitution in="uni2187" out="uni2187.08"/>
+          <Substitution in="uni2188" out="uni2188.08"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.09"/>
+          <Substitution in="uni2181" out="uni2181.09"/>
+          <Substitution in="uni2182" out="uni2182.09"/>
+          <Substitution in="uni2187" out="uni2187.09"/>
+          <Substitution in="uni2188" out="uni2188.09"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.10"/>
+          <Substitution in="uni2181" out="uni2181.10"/>
+          <Substitution in="uni2182" out="uni2182.10"/>
+          <Substitution in="uni2187" out="uni2187.10"/>
+          <Substitution in="uni2188" out="uni2188.10"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="19">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.11"/>
+          <Substitution in="uni2181" out="uni2181.11"/>
+          <Substitution in="uni2182" out="uni2182.11"/>
+          <Substitution in="uni2187" out="uni2187.11"/>
+          <Substitution in="uni2188" out="uni2188.11"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="20">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.12"/>
+          <Substitution in="uni2181" out="uni2181.12"/>
+          <Substitution in="uni2182" out="uni2182.12"/>
+          <Substitution in="uni2187" out="uni2187.12"/>
+          <Substitution in="uni2188" out="uni2188.12"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="21">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni2180" out="uni2180.13"/>
+          <Substitution in="uni2181" out="uni2181.13"/>
+          <Substitution in="uni2182" out="uni2182.13"/>
+          <Substitution in="uni2187" out="uni2187.13"/>
+          <Substitution in="uni2188" out="uni2188.13"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="22">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="M">
+            <Ligature components="uni0366" glyph="uni004D0366"/>
+          </LigatureSet>
+          <LigatureSet glyph="S">
+            <Ligature components="uni0357" glyph="uni00530357"/>
+          </LigatureSet>
+          <LigatureSet glyph="V">
+            <Ligature components="uni0357" glyph="uni00560357"/>
+          </LigatureSet>
+          <LigatureSet glyph="u10193.02">
+            <Ligature components="u10193.02" glyph="binaesextulae"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="23">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="a" out="a.enl"/>
+          <Substitution in="aacute" out="aacute.enl"/>
+          <Substitution in="ae" out="ae.enl"/>
+          <Substitution in="b" out="b.enl"/>
+          <Substitution in="c" out="c.enl"/>
+          <Substitution in="d" out="d.enl"/>
+          <Substitution in="d.ins" out="uniEEE4"/>
+          <Substitution in="dotlessi" out="dotlessi.enl"/>
+          <Substitution in="e" out="e.enl"/>
+          <Substitution in="eogonek" out="eogonek.enl"/>
+          <Substitution in="eth" out="eth.enl"/>
+          <Substitution in="f" out="f.enl"/>
+          <Substitution in="f.ins" out="f.ins_enl"/>
+          <Substitution in="g" out="g.enl"/>
+          <Substitution in="h" out="h.enl"/>
+          <Substitution in="i" out="i.enl"/>
+          <Substitution in="j" out="j.enl"/>
+          <Substitution in="k" out="k.enl"/>
+          <Substitution in="l" out="l.enl"/>
+          <Substitution in="longs" out="uniEEDF"/>
+          <Substitution in="m" out="m.enl"/>
+          <Substitution in="n" out="n.enl"/>
+          <Substitution in="o" out="o.enl"/>
+          <Substitution in="oe" out="oe.enl"/>
+          <Substitution in="p" out="p.enl"/>
+          <Substitution in="q" out="q.enl"/>
+          <Substitution in="r" out="r.enl"/>
+          <Substitution in="s" out="s.enl"/>
+          <Substitution in="t" out="t.enl"/>
+          <Substitution in="thorn" out="thorn.enl"/>
+          <Substitution in="u" out="u.enl"/>
+          <Substitution in="uni0237" out="dotlessj.enl"/>
+          <Substitution in="uniA733" out="a_a.enl"/>
+          <Substitution in="uniA735" out="a_o.enl"/>
+          <Substitution in="v" out="v.enl"/>
+          <Substitution in="w" out="w.enl"/>
+          <Substitution in="x" out="x.enl"/>
+          <Substitution in="y" out="y.enl"/>
+          <Substitution in="z" out="z.enl"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="B">
+            <Alternate glyph="B.tall"/>
+          </AlternateSet>
+          <AlternateSet glyph="D">
+            <Alternate glyph="D.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="I">
+            <Alternate glyph="I.tall"/>
+          </AlternateSet>
+          <AlternateSet glyph="L.01">
+            <Alternate glyph="L.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="T">
+            <Alternate glyph="T.tall"/>
+          </AlternateSet>
+          <AlternateSet glyph="Thorn">
+            <Alternate glyph="Thorn.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="m">
+            <Alternate glyph="m.alt01"/>
+          </AlternateSet>
+          <AlternateSet glyph="thorn">
+            <Alternate glyph="thorn.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10190">
+            <Alternate glyph="u10190.01"/>
+            <Alternate glyph="Z"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10191">
+            <Alternate glyph="bullet"/>
+            <Alternate glyph="uni23D1"/>
+            <Alternate glyph="u10191.03"/>
+            <Alternate glyph="u10191.04"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10192">
+            <Alternate glyph="Sigma"/>
+            <Alternate glyph="Sigma.09"/>
+            <Alternate glyph="u10192.03"/>
+            <Alternate glyph="10192.04"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10193">
+            <Alternate glyph="u10193.01"/>
+            <Alternate glyph="u10193.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10196">
+            <Alternate glyph="u10196.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10197">
+            <Alternate glyph="S"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10198">
+            <Alternate glyph="u10198.01"/>
+            <Alternate glyph="10192.04"/>
+            <Alternate glyph="u10198.03"/>
+            <Alternate glyph="u10198.04"/>
+            <Alternate glyph="u10198.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10199">
+            <Alternate glyph="u10199.01"/>
+            <Alternate glyph="u10199.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1019A">
+            <Alternate glyph="u1019A.01"/>
+            <Alternate glyph="u1019A.02"/>
+            <Alternate glyph="u1019A.03"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1019B">
+            <Alternate glyph="u1019B.01"/>
+            <Alternate glyph="u1019B.02"/>
+            <Alternate glyph="u1019B.03"/>
+            <Alternate glyph="u1019B.04"/>
+            <Alternate glyph="uni2183"/>
+            <Alternate glyph="u1019B.06"/>
+            <Alternate glyph="u1019B.07"/>
+            <Alternate glyph="u1019B.08"/>
+            <Alternate glyph="u1019B.09"/>
+            <Alternate glyph="Z"/>
+            <Alternate glyph="uni01B5"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2108">
+            <Alternate glyph="uni2108.01"/>
+            <Alternate glyph="uni2108.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni211F">
+            <Alternate glyph="uni211F.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2180">
+            <Alternate glyph="infinity"/>
+            <Alternate glyph="uniF437"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2766">
+            <Alternate glyph="hedera1"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2E31">
+            <Alternate glyph="uniF4B5"/>
+            <Alternate glyph="u1019B.04"/>
+            <Alternate glyph="uniF4B7"/>
+            <Alternate glyph="uniF4B8"/>
+            <Alternate glyph="uniF4B9"/>
+            <Alternate glyph="uniF4BA"/>
+            <Alternate glyph="uniF4BB"/>
+          </AlternateSet>
+          <AlternateSet glyph="uniA7FD">
+            <Alternate glyph="M.02"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="25">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.oldstyle"/>
+          <Substitution in="five" out="five.oldstyle"/>
+          <Substitution in="four" out="four.oldstyle"/>
+          <Substitution in="nine" out="nine.oldstyle"/>
+          <Substitution in="one" out="one.oldstyle"/>
+          <Substitution in="seven" out="seven.oldstyle"/>
+          <Substitution in="six" out="six.oldstyle"/>
+          <Substitution in="three" out="three.oldstyle"/>
+          <Substitution in="two" out="two.oldstyle"/>
+          <Substitution in="zero" out="zero.oldstyle"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="26">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eight.pnum"/>
+          <Substitution in="five" out="five.pnum"/>
+          <Substitution in="four" out="four.pnum"/>
+          <Substitution in="nine" out="nine.pnum"/>
+          <Substitution in="one" out="one.pnum"/>
+          <Substitution in="seven" out="seven.pnum"/>
+          <Substitution in="six" out="six.pnum"/>
+          <Substitution in="three" out="three.pnum"/>
+          <Substitution in="two" out="two.pnum"/>
+          <Substitution in="zero" out="zero.pnum"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="27">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="eight" out="eightsuperior"/>
+          <Substitution in="five" out="fivesuperior"/>
+          <Substitution in="four" out="foursuperior"/>
+          <Substitution in="nine" out="ninesuperior"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="seven" out="sevensuperior"/>
+          <Substitution in="six" out="sixsuperior"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="zero" out="zerosuperior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="28">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="eight" out="eightinferior"/>
+          <Substitution in="five" out="fiveinferior"/>
+          <Substitution in="four" out="fourinferior"/>
+          <Substitution in="nine" out="nineinferior"/>
+          <Substitution in="one" out="oneinferior"/>
+          <Substitution in="seven" out="seveninferior"/>
+          <Substitution in="six" out="sixinferior"/>
+          <Substitution in="three" out="threeinferior"/>
+          <Substitution in="two" out="twoinferior"/>
+          <Substitution in="zero" out="zeroinferior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="29">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="Alpha">
+            <Alternate glyph="Alpha.01"/>
+            <Alternate glyph="Alpha.02"/>
+            <Alternate glyph="Alpha.03"/>
+            <Alternate glyph="Alpha.04"/>
+            <Alternate glyph="Alpha.05"/>
+            <Alternate glyph="Alpha.06"/>
+            <Alternate glyph="Alpha.07"/>
+            <Alternate glyph="Alpha.08"/>
+            <Alternate glyph="Delta.01"/>
+            <Alternate glyph="Lambda.01"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Alpha.03r"/>
+            <Alternate glyph="Alpha.04r"/>
+            <Alternate glyph="Alpha.05r"/>
+            <Alternate glyph="Alpha.06r"/>
+            <Alternate glyph="Alpha.07r"/>
+            <Alternate glyph="Alpha.08r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Beta">
+            <Alternate glyph="Beta.01"/>
+            <Alternate glyph="Beta.02"/>
+            <Alternate glyph="Sigma.06"/>
+            <Alternate glyph="Beta.04"/>
+            <Alternate glyph="Beta.05"/>
+            <Alternate glyph="Beta.06"/>
+            <Alternate glyph="Gamma.07"/>
+            <Alternate glyph="Omicron.02"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Gamma.02"/>
+            <Alternate glyph="Beta.11"/>
+            <Alternate glyph="Beta.01r"/>
+            <Alternate glyph="Beta.02r"/>
+            <Alternate glyph="Sigma.06r"/>
+            <Alternate glyph="Beta.04r"/>
+            <Alternate glyph="Beta.05r"/>
+            <Alternate glyph="Beta.06r"/>
+            <Alternate glyph="Gamma.07r"/>
+            <Alternate glyph="Gamma.02r"/>
+            <Alternate glyph="Beta.11r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Chi">
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Chi.02"/>
+            <Alternate glyph="Psi.02"/>
+            <Alternate glyph="Phi.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="Delta">
+            <Alternate glyph="Delta.01"/>
+            <Alternate glyph="Delta.02"/>
+            <Alternate glyph="Delta.03"/>
+            <Alternate glyph="Lambda.01"/>
+            <Alternate glyph="Delta.02r"/>
+            <Alternate glyph="Delta.03r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Epsilon">
+            <Alternate glyph="Epsilon.01"/>
+            <Alternate glyph="Epsilon.02"/>
+            <Alternate glyph="Gamma.04"/>
+            <Alternate glyph="Eta.07"/>
+            <Alternate glyph="Epsilon.05"/>
+            <Alternate glyph="Epsilon.06"/>
+            <Alternate glyph="Epsilon.07"/>
+            <Alternate glyph="Epsilon.08"/>
+            <Alternate glyph="Epsilon.09"/>
+            <Alternate glyph="Epsilon.10"/>
+            <Alternate glyph="Epsilon.11"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Epsilon.13"/>
+            <Alternate glyph="Epsilon.14"/>
+            <Alternate glyph="Epsilon.15"/>
+            <Alternate glyph="Epsilon.16"/>
+            <Alternate glyph="Epsilon.01r"/>
+            <Alternate glyph="Epsilon.02r"/>
+            <Alternate glyph="Gamma.04r"/>
+            <Alternate glyph="Eta.07r"/>
+            <Alternate glyph="Epsilon.05r"/>
+            <Alternate glyph="Epsilon.06r"/>
+            <Alternate glyph="Epsilon.07r"/>
+            <Alternate glyph="Epsilon.08r"/>
+            <Alternate glyph="Epsilon.09r"/>
+            <Alternate glyph="Epsilon.10r"/>
+            <Alternate glyph="Epsilon.11r"/>
+            <Alternate glyph="Epsilon.13r"/>
+            <Alternate glyph="Epsilon.14r"/>
+            <Alternate glyph="Epsilon.15r"/>
+            <Alternate glyph="Epsilon.16r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Eta">
+            <Alternate glyph="Eta.01"/>
+            <Alternate glyph="Eta.02"/>
+            <Alternate glyph="Eta.03"/>
+            <Alternate glyph="Eta.04"/>
+            <Alternate glyph="Eta.05"/>
+            <Alternate glyph="Eta.06"/>
+            <Alternate glyph="Eta.07"/>
+            <Alternate glyph="Epsilon.01"/>
+            <Alternate glyph="Eta.04r"/>
+            <Alternate glyph="Eta.06r"/>
+            <Alternate glyph="Eta.07r"/>
+            <Alternate glyph="Epsilon.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Gamma">
+            <Alternate glyph="Gamma.01"/>
+            <Alternate glyph="Gamma.02"/>
+            <Alternate glyph="Gamma.03"/>
+            <Alternate glyph="Gamma.04"/>
+            <Alternate glyph="Gamma.05"/>
+            <Alternate glyph="Lambda.02"/>
+            <Alternate glyph="Gamma.07"/>
+            <Alternate glyph="Lambda.01"/>
+            <Alternate glyph="Gamma.01r"/>
+            <Alternate glyph="Gamma.02r"/>
+            <Alternate glyph="Gamma.03r"/>
+            <Alternate glyph="Gamma.04r"/>
+            <Alternate glyph="Gamma.05r"/>
+            <Alternate glyph="Lambda.02r"/>
+            <Alternate glyph="Gamma.07r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Iota">
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Sigma.05"/>
+            <Alternate glyph="Iota.03"/>
+            <Alternate glyph="Iota.04"/>
+            <Alternate glyph="Iota.05"/>
+            <Alternate glyph="Sigma.06"/>
+            <Alternate glyph="Iota.07"/>
+            <Alternate glyph="Sigma.05r"/>
+            <Alternate glyph="Iota.03r"/>
+            <Alternate glyph="Iota.04r"/>
+            <Alternate glyph="Iota.05r"/>
+            <Alternate glyph="Sigma.06r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Kappa">
+            <Alternate glyph="Kappa.01"/>
+            <Alternate glyph="Kappa.02"/>
+            <Alternate glyph="Nu.01"/>
+            <Alternate glyph="Eta.01"/>
+            <Alternate glyph="Phi.02"/>
+            <Alternate glyph="Nu.07"/>
+            <Alternate glyph="Kappa.07"/>
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Kappa.09"/>
+            <Alternate glyph="Kappa.01r"/>
+            <Alternate glyph="Kappa.02r"/>
+            <Alternate glyph="Nu.01r"/>
+            <Alternate glyph="Nu.07r"/>
+            <Alternate glyph="Kappa.07r"/>
+            <Alternate glyph="Kappa.09r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Lambda">
+            <Alternate glyph="Lambda.01"/>
+            <Alternate glyph="Lambda.02"/>
+            <Alternate glyph="Gamma.01"/>
+            <Alternate glyph="Delta.01"/>
+            <Alternate glyph="Gamma.04"/>
+            <Alternate glyph="Gamma.05"/>
+            <Alternate glyph="Lambda.07"/>
+            <Alternate glyph="Lambda.08"/>
+            <Alternate glyph="Lambda.02r"/>
+            <Alternate glyph="Gamma.01r"/>
+            <Alternate glyph="Gamma.04r"/>
+            <Alternate glyph="Gamma.05r"/>
+            <Alternate glyph="Lambda.07r"/>
+            <Alternate glyph="Lambda.08r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Mu">
+            <Alternate glyph="Mu.01"/>
+            <Alternate glyph="Mu.02"/>
+            <Alternate glyph="Mu.03"/>
+            <Alternate glyph="Mu.04"/>
+            <Alternate glyph="Pi.01"/>
+            <Alternate glyph="Mu.06"/>
+            <Alternate glyph="Mu.07"/>
+            <Alternate glyph="Mu.03r"/>
+            <Alternate glyph="Mu.04r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Nu">
+            <Alternate glyph="Nu.01"/>
+            <Alternate glyph="Nu.02"/>
+            <Alternate glyph="Nu.03"/>
+            <Alternate glyph="Nu.04"/>
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Eta.01"/>
+            <Alternate glyph="Nu.07"/>
+            <Alternate glyph="Iota.03"/>
+            <Alternate glyph="Nu.01r"/>
+            <Alternate glyph="Nu.02r"/>
+            <Alternate glyph="Nu.03r"/>
+            <Alternate glyph="Nu.04r"/>
+            <Alternate glyph="Nu.07r"/>
+            <Alternate glyph="Iota.03r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Omega">
+            <Alternate glyph="Omega.01"/>
+            <Alternate glyph="Omega.02"/>
+            <Alternate glyph="Theta.02"/>
+            <Alternate glyph="Omicron.01"/>
+            <Alternate glyph="Lambda.01"/>
+            <Alternate glyph="Omega.06"/>
+            <Alternate glyph="Omega.07"/>
+            <Alternate glyph="Omega.08"/>
+            <Alternate glyph="Omega.09"/>
+            <Alternate glyph="Omicron.04"/>
+            <Alternate glyph="Omega.11"/>
+            <Alternate glyph="Omega.12"/>
+          </AlternateSet>
+          <AlternateSet glyph="Omicron">
+            <Alternate glyph="Omicron.01"/>
+            <Alternate glyph="Omicron.02"/>
+            <Alternate glyph="Omicron.03"/>
+            <Alternate glyph="Omicron.04"/>
+            <Alternate glyph="Omicron.05"/>
+            <Alternate glyph="Omicron.06"/>
+            <Alternate glyph="Theta.02"/>
+            <Alternate glyph="uni03F9.01"/>
+            <Alternate glyph="uni03F9.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Phi">
+            <Alternate glyph="Phi.01"/>
+            <Alternate glyph="Phi.02"/>
+            <Alternate glyph="Phi.03"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Eta.07"/>
+            <Alternate glyph="Phi.07"/>
+            <Alternate glyph="Phi.08"/>
+            <Alternate glyph="Theta.02"/>
+            <Alternate glyph="Phi.10"/>
+            <Alternate glyph="Eta.07r"/>
+            <Alternate glyph="Phi.07r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Pi">
+            <Alternate glyph="Pi.01"/>
+            <Alternate glyph="Pi.02"/>
+            <Alternate glyph="Pi.03"/>
+            <Alternate glyph="Rho.08"/>
+            <Alternate glyph="Pi.05"/>
+            <Alternate glyph="uni03F9.01"/>
+            <Alternate glyph="Pi.02r"/>
+            <Alternate glyph="Rho.08r"/>
+            <Alternate glyph="uni03F9.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Psi">
+            <Alternate glyph="Psi.01"/>
+            <Alternate glyph="Psi.02"/>
+            <Alternate glyph="Chi.02"/>
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Psi.05"/>
+            <Alternate glyph="Psi.06"/>
+          </AlternateSet>
+          <AlternateSet glyph="Rho">
+            <Alternate glyph="Rho.01"/>
+            <Alternate glyph="Rho.02"/>
+            <Alternate glyph="Eta.07"/>
+            <Alternate glyph="Rho.04"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Rho.06"/>
+            <Alternate glyph="Rho.07"/>
+            <Alternate glyph="Rho.08"/>
+            <Alternate glyph="Rho.09"/>
+            <Alternate glyph="Rho.10"/>
+            <Alternate glyph="Rho.01r"/>
+            <Alternate glyph="Rho.02r"/>
+            <Alternate glyph="Eta.07r"/>
+            <Alternate glyph="Rho.04r"/>
+            <Alternate glyph="Rho.06r"/>
+            <Alternate glyph="Rho.07r"/>
+            <Alternate glyph="Rho.08r"/>
+            <Alternate glyph="Rho.09r"/>
+            <Alternate glyph="Rho.10r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Sigma">
+            <Alternate glyph="Sigma.01"/>
+            <Alternate glyph="uni03F9.01"/>
+            <Alternate glyph="Epsilon.11"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Sigma.05"/>
+            <Alternate glyph="Sigma.06"/>
+            <Alternate glyph="Sigma.07"/>
+            <Alternate glyph="Sigma.08"/>
+            <Alternate glyph="Sigma.09"/>
+            <Alternate glyph="Sigma.10"/>
+            <Alternate glyph="Sigma.01r"/>
+            <Alternate glyph="uni03F9.01r"/>
+            <Alternate glyph="Epsilon.11r"/>
+            <Alternate glyph="Sigma.05r"/>
+            <Alternate glyph="Sigma.06r"/>
+            <Alternate glyph="Sigma.07r"/>
+            <Alternate glyph="Sigma.08r"/>
+            <Alternate glyph="Sigma.09r"/>
+            <Alternate glyph="Sigma.10r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Tau">
+            <Alternate glyph="Tau.01"/>
+            <Alternate glyph="Tau.02"/>
+            <Alternate glyph="Iota.01"/>
+            <Alternate glyph="Eta.07"/>
+            <Alternate glyph="Tau.02r"/>
+            <Alternate glyph="Eta.07r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Theta">
+            <Alternate glyph="Theta.01"/>
+            <Alternate glyph="Theta.02"/>
+            <Alternate glyph="Theta.03"/>
+            <Alternate glyph="Theta.04"/>
+            <Alternate glyph="Theta.05"/>
+            <Alternate glyph="Theta.06"/>
+            <Alternate glyph="Theta.07"/>
+            <Alternate glyph="Theta.08"/>
+            <Alternate glyph="Theta.09"/>
+            <Alternate glyph="Theta.10"/>
+            <Alternate glyph="Theta.11"/>
+            <Alternate glyph="Theta.12"/>
+            <Alternate glyph="Theta.13"/>
+            <Alternate glyph="Eta.02"/>
+            <Alternate glyph="Omicron.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="Upsilon">
+            <Alternate glyph="Upsilon.01"/>
+            <Alternate glyph="Upsilon.02"/>
+            <Alternate glyph="Upsilon.03"/>
+            <Alternate glyph="Upsilon.04"/>
+            <Alternate glyph="Upsilon.05"/>
+            <Alternate glyph="Upsilon.06"/>
+            <Alternate glyph="Upsilon.04r"/>
+            <Alternate glyph="Upsilon.05r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Xi">
+            <Alternate glyph="Xi.01"/>
+            <Alternate glyph="Iota.07"/>
+            <Alternate glyph="Xi.03"/>
+            <Alternate glyph="Xi.04"/>
+            <Alternate glyph="Xi.05"/>
+            <Alternate glyph="Xi.06"/>
+            <Alternate glyph="Phi.02"/>
+            <Alternate glyph="Chi.01"/>
+            <Alternate glyph="Zeta.02"/>
+            <Alternate glyph="Xi.03r"/>
+          </AlternateSet>
+          <AlternateSet glyph="Zeta">
+            <Alternate glyph="Zeta.01"/>
+            <Alternate glyph="Zeta.02"/>
+            <Alternate glyph="Zeta.03"/>
+            <Alternate glyph="Zeta.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03D8">
+            <Alternate glyph="uni03D8.01"/>
+            <Alternate glyph="uni03D8.02"/>
+            <Alternate glyph="uni03D8.03"/>
+            <Alternate glyph="uni03D8.04"/>
+            <Alternate glyph="uni03D8.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03DA">
+            <Alternate glyph="uni03DA.01"/>
+            <Alternate glyph="uni03DA.02"/>
+            <Alternate glyph="uni03DA.03"/>
+            <Alternate glyph="Epsilon.11"/>
+            <Alternate glyph="uni03DA.05"/>
+            <Alternate glyph="uni03DA.06"/>
+            <Alternate glyph="uni03DA.07"/>
+            <Alternate glyph="uni03DA.01r"/>
+            <Alternate glyph="uni03DA.02r"/>
+            <Alternate glyph="uni03DA.03r"/>
+            <Alternate glyph="Epsilon.11r"/>
+            <Alternate glyph="uni03DA.05r"/>
+            <Alternate glyph="uni03DA.06r"/>
+            <Alternate glyph="uni03DA.07r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03DC">
+            <Alternate glyph="uni03DC.01"/>
+            <Alternate glyph="uni03DC.02"/>
+            <Alternate glyph="uni03DC.03"/>
+            <Alternate glyph="uni03DC.04"/>
+            <Alternate glyph="uni03DC.05"/>
+            <Alternate glyph="Nu.03"/>
+            <Alternate glyph="Nu.01"/>
+            <Alternate glyph="uni03DC.08"/>
+            <Alternate glyph="uni03DC.09"/>
+            <Alternate glyph="uni03DC.01r"/>
+            <Alternate glyph="uni03DC.02r"/>
+            <Alternate glyph="uni03DC.03r"/>
+            <Alternate glyph="uni03DC.04r"/>
+            <Alternate glyph="uni03DC.05r"/>
+            <Alternate glyph="Nu.03r"/>
+            <Alternate glyph="Nu.01r"/>
+            <Alternate glyph="uni03DC.08r"/>
+            <Alternate glyph="uni03DC.09r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03E0">
+            <Alternate glyph="uni03E0.01"/>
+            <Alternate glyph="uni03E0.02"/>
+            <Alternate glyph="Tau.01"/>
+            <Alternate glyph="uni03E0.04"/>
+            <Alternate glyph="uni03E0.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03F7">
+            <Alternate glyph="uni03F7.01"/>
+            <Alternate glyph="uni03F7.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03F9">
+            <Alternate glyph="uni03F9.01"/>
+            <Alternate glyph="uni03F9.01r"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni03FA">
+            <Alternate glyph="u10311"/>
+            <Alternate glyph="Mu.02"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="30">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="Sigma" out="uni03F9"/>
+          <Substitution in="beta" out="uni03D0"/>
+          <Substitution in="kappa" out="uni03F0"/>
+          <Substitution in="pi" out="omega1"/>
+          <Substitution in="rho" out="uni03F1"/>
+          <Substitution in="sigma" out="uni03F2"/>
+          <Substitution in="sigma1" out="uni03F2"/>
+          <Substitution in="theta" out="theta1"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="31">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="greater">
+            <Alternate glyph="greater.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="less">
+            <Alternate glyph="less.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="slash">
+            <Alternate glyph="slash.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10144">
+            <Alternate glyph="u10144.alt01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1014C">
+            <Alternate glyph="u1014C.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10157">
+            <Alternate glyph="u10157.01"/>
+            <Alternate glyph="u10157.02"/>
+            <Alternate glyph="u10157.03"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10165">
+            <Alternate glyph="u10165.01"/>
+            <Alternate glyph="u10165.02"/>
+            <Alternate glyph="u10165.03"/>
+            <Alternate glyph="u10165.04"/>
+            <Alternate glyph="u10165.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10169">
+            <Alternate glyph="u10169.01"/>
+            <Alternate glyph="u10169.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1016E">
+            <Alternate glyph="u1016E.01"/>
+            <Alternate glyph="u1016E.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni25EF">
+            <Alternate glyph="uni25EF.01"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="32">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="dagger">
+            <Alternate glyph="dagger.01"/>
+            <Alternate glyph="dagger.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="dotbelowcomb">
+            <Alternate glyph="dotbelowcomb.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10175">
+            <Alternate glyph="u10175.01"/>
+            <Alternate glyph="u10175.02"/>
+            <Alternate glyph="u10175.03"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10177">
+            <Alternate glyph="u10177.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1017C">
+            <Alternate glyph="u1017C.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1017D">
+            <Alternate glyph="u1017D.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10183">
+            <Alternate glyph="u10183.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10185">
+            <Alternate glyph="u10185.01"/>
+            <Alternate glyph="u10185.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="u10186">
+            <Alternate glyph="u10186.01"/>
+            <Alternate glyph="u10186.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni205C">
+            <Alternate glyph="uni205C.01"/>
+            <Alternate glyph="uni205C.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2E0E">
+            <Alternate glyph="uni2E0E.01"/>
+            <Alternate glyph="uni2E0E.02"/>
+            <Alternate glyph="uni2E0E.03"/>
+            <Alternate glyph="uni2E0E.04"/>
+            <Alternate glyph="uni2E0E.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2E0F">
+            <Alternate glyph="uni2E0F.01"/>
+            <Alternate glyph="uni2E0F.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2E10">
+            <Alternate glyph="uni2E10.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni2E11">
+            <Alternate glyph="uni2E11.01"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="33">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="plus">
+            <Alternate glyph="plus.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D20F">
+            <Alternate glyph="u1D20F.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D23C">
+            <Alternate glyph="Zeta.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D242">
+            <Alternate glyph="u1D242.01"/>
+            <Alternate glyph="u1D242.02"/>
+            <Alternate glyph="u1D242.03"/>
+            <Alternate glyph="u1D242.04"/>
+            <Alternate glyph="u1D242.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D243">
+            <Alternate glyph="u1D243.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D244">
+            <Alternate glyph="u1D244.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="u1D245">
+            <Alternate glyph="u1D245.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0305">
+            <Alternate glyph="uni0305.01"/>
+            <Alternate glyph="uni0305.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni0307">
+            <Alternate glyph="uni0307.01"/>
+            <Alternate glyph="uni0307.02"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="34">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="Alpha" out="Alpha.01"/>
+          <Substitution in="Beta" out="Beta.01"/>
+          <Substitution in="Chi" out="Chi.01"/>
+          <Substitution in="Delta" out="Delta.01"/>
+          <Substitution in="Epsilon" out="Epsilon.01"/>
+          <Substitution in="Eta" out="Eta.01"/>
+          <Substitution in="Gamma" out="Gamma.01"/>
+          <Substitution in="Iota" out="Iota.01"/>
+          <Substitution in="Kappa" out="Kappa.01"/>
+          <Substitution in="Lambda" out="Lambda.01"/>
+          <Substitution in="Mu" out="Mu.01"/>
+          <Substitution in="Nu" out="Nu.01"/>
+          <Substitution in="Omega" out="Omega.01"/>
+          <Substitution in="Omicron" out="Omicron.01"/>
+          <Substitution in="Phi" out="Phi.01"/>
+          <Substitution in="Pi" out="Pi.01"/>
+          <Substitution in="Psi" out="Psi.01"/>
+          <Substitution in="Rho" out="Rho.01"/>
+          <Substitution in="Sigma" out="Sigma.01"/>
+          <Substitution in="Tau" out="Tau.01"/>
+          <Substitution in="Theta" out="Theta.01"/>
+          <Substitution in="Upsilon" out="Upsilon.01"/>
+          <Substitution in="Xi" out="Xi.01"/>
+          <Substitution in="Zeta" out="Zeta.01"/>
+          <Substitution in="uni03D8" out="uni03D8.01"/>
+          <Substitution in="uni03DA" out="uni03DA.01"/>
+          <Substitution in="uni03DC" out="uni03DC.01"/>
+          <Substitution in="uni03E0" out="uni03E0.01"/>
+          <Substitution in="uni03F7" out="uni03F7.01"/>
+          <Substitution in="uni03F9" out="uni03F9.01"/>
+          <Substitution in="uni03FA" out="u10311"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="35">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="u10300" out="uF0300"/>
+          <Substitution in="u10301" out="uF0301"/>
+          <Substitution in="u10302" out="uF0302"/>
+          <Substitution in="u10303" out="uF0303"/>
+          <Substitution in="u10304" out="uF0304"/>
+          <Substitution in="u10305" out="uF0305"/>
+          <Substitution in="u1030A" out="uF030A"/>
+          <Substitution in="u1030B" out="uF030B"/>
+          <Substitution in="u1030C" out="uF030C"/>
+          <Substitution in="u1030D" out="uF030D"/>
+          <Substitution in="u10310" out="uF0310"/>
+          <Substitution in="u10313" out="uF0313"/>
+          <Substitution in="u10314" out="uF0314"/>
+          <Substitution in="u1031B" out="uF031B"/>
+          <Substitution in="u1031C" out="uF031C"/>
+          <Substitution in="u1031D" out="uF031D"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="36">
+        <LookupType value="4"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="afii57664">
+            <Ligature components="afii57676" glyph="uniFB4F"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="37">
+        <LookupType value="4"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="afii57800">
+            <Ligature components="afii57839" glyph="uni05B205BD"/>
+          </LigatureSet>
+          <LigatureSet glyph="afii57801">
+            <Ligature components="afii57839" glyph="uni05B105BD"/>
+          </LigatureSet>
+          <LigatureSet glyph="afii57802">
+            <Ligature components="afii57839" glyph="uni05B305BD"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="38">
+        <LookupType value="1"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="space" out="uni2002"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="39">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="i" out="dotlessi"/>
+          <Substitution in="j" out="dotlessj"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
