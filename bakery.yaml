@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Cardo-Italic.ttf.ttx, Cardo-Bold.ttf.ttx, Cardo-Regular.ttf.ttx, src/Cardo-Italic.otf.ttx,
+  src/Cardo-Bold-TTF.sfd, src/Cardo-Italic-TTF.sfd, src/Cardo-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
